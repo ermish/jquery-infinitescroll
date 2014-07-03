@@ -7,7 +7,7 @@ If you reach the end of a list either in a dropdown or in page content, this plu
 
 ## How do I use it?
 
-Hop on over to http://ermish.github.io/jquery-infinitescroll for documentation and examples.
+Head on over to http://ermish.github.io/jquery-infinitescroll for documentation and examples.
 
 ##  Copyright and Licensing
 
